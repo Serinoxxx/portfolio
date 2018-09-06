@@ -3,5 +3,5 @@ title: Stuart Wilson
 description: Game Dev Portfolio
 keywords: Game Dev, Portfolio, Game Design
 author: Stuart Wilson
-baseurl: "blog" # the subpath of your site, e.g. /blog/
+baseurl: "portfolio" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
