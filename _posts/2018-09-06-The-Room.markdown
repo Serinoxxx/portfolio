@@ -1,18 +1,22 @@
 ---
 
-title:  "My First Test"
-subtitle: "I hope this works"
-author: "Stuart"
-avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+title:  "The Room"
+subtitle: "Architecture Visualization"
+author: "Stuart Wilson"
+avatar: "img/authors/author.png"
+image: "img/b.jpg"
+date:   2018-06-06 12:12:12
 
 ---
+
+[![Small](img/authors/wferr.png "this is a dog")](img/The_Room/HighRez.png "this is a monkey")
+
+
 You’ll find this post in your `_posts` directory. Go apples ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Jekyll also offers powerful support for code snippets: asdsadqqweaasdsdsasdaasdd
 
 {% highlight ruby %}
 def print_hi(name)
