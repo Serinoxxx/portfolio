@@ -1,33 +1,33 @@
 ---
-
 title:  "The Room"
 subtitle: "Architecture Visualization"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/b.jpg"
-date:   2018-06-06 12:12:12
-
+date:   "8th September 2018"
+permalink: "The Room"
 ---
+<p>
+My first Unreal Engine 4 project, created by following the Udemy Course by
+<a href="https://www.udemy.com/share/10027MA0Iddl1WQHw=/" target="_blank" style="color:#de6551"><u>Christopher Murphy</u></a>
+</p>
+[![Small](img/The_Room/theroom_1.png){:height="245px"}](img/The_Room/theroom_1.png)
+<p style="text-align: center;"><i>Defining the workspace</i></p><br />
 
-[![Small](img/authors/wferr.png "this is a dog")](img/The_Room/HighRez.png "this is a monkey")
+[![Small](img/The_Room/theroom_2.png){:height="245px"}](img/The_Room/theroom_2.png)
+<p style="text-align: center;"><i>Redefining the workspace</i></p><br/>
 
+[![Small](img/The_Room/theroom_3.png){:height="245px"}](img/The_Room/theroom_3.png)
+<p style="text-align: center;"><i>Fleshing out base static mesh details</i></p><br />
 
-You’ll find this post in your `_posts` directory. Go apples ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+[![Small](img/The_Room/theroom_4.png){:height="245px"}](img/The_Room/theroom_4.png)
+<p style="text-align: center;"><i>Filling in more scene details</i></p><br >
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[![Small](img/The_Room/theroom_5.png){:height="245px"}](img/The_Room/theroom_5.png)
+<p style="text-align: center;"><i>Final pre-lighting scene view</i></p><br />
 
-Jekyll also offers powerful support for code snippets: asdsadqqweaasdsdsasdaasddasd
+[![Small](img/The_Room/theroom_6.png){:height="245px"}](img/The_Room/theroom_6.png)
+<p style="text-align: center;"><i>First detailed lighting pass</i></p><br />
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[![Small](img/The_Room/theroom_7.png){:height="245px"}](img/The_Room/theroom_7.png)
+<p style="text-align: center;"><i>Post processing pass</i></p><br />
