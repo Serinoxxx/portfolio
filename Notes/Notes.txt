@@ -1,0 +1,48 @@
+Taking Screenshots 1.5 aspect ratio for post icons
+  1. Change play window settings to 1500x1000
+  2. Play the game.
+  3. Press H to take a Screenshot
+
+Setting up H keypress for screenshots in-game
+  https://chiaroscorner.wordpress.com/2018/02/20/how-to-take-a-high-res-screenshot-in-play-mode-ue4/
+
+
+  one image example
+  <a class="example-image-link" href="img/a.jpg" data-lightbox="example-1"><img class="img/a.jpg" src="img/a.jpg" alt="image-1" /></a>
+
+  two image Example
+  <a class="example-image-link" href="img/ajpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="img/a.jpg" alt=""/></a>
+  <a class="example-image-link" href="img/b.jpg" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="img/b.jpg" alt="" /></a>
+  <a class="example-image-link" href="img/c.jpg" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="img/c.jpg" alt="" /></a>
+  <a class="example-image-link" href="img/d.jpg" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="img/d.jpg" alt="" /></a>
+
+
+  https://lokeshdhakar.com/projects/lightbox2/
+
+
+  [![Small](img/The_Room/theroom_1.png){:height="245px"}](img/The_Room/theroom_1.png)
+  <p style="text-align: center;"><i>Defining the workspace</i></p><br />
+
+  [![Small](img/The_Room/theroom_2.png){:height="245px"}](img/The_Room/theroom_2.png)
+  <p style="text-align: center;"><i>Redefining the workspace</i></p><br/>
+
+  [![Small](img/The_Room/theroom_3.png){:height="245px"}](img/The_Room/theroom_3.png)
+  <p style="text-align: center;"><i>Fleshing out base static mesh details</i></p><br />
+
+  [![Small](img/The_Room/theroom_4.png){:height="245px"}](img/The_Room/theroom_4.png)
+  <p style="text-align: center;"><i>Filling in more scene details</i></p><br >
+
+  [![Small](img/The_Room/theroom_5.png){:height="245px"}](img/The_Room/theroom_5.png)
+  <p style="text-align: center;"><i>Final pre-lighting scene view</i></p><br />
+
+  [![Small](img/The_Room/theroom_6.png){:height="245px"}](img/The_Room/theroom_6.png)
+  <p style="text-align: center;"><i>First detailed lighting pass</i></p><br />
+
+  [![Small](img/The_Room/theroom_7.png){:height="245px"}](img/The_Room/theroom_7.png)
+  <p style="text-align: center;"><i>Post processing pass</i></p><br />
+
+  [![Small](img/The_Room/theroom_8.png){:height="245px"}](img/The_Room/theroom_8.png)
+  <p style="text-align: center;"><i>Final Scene View 1</i></p><br />
+
+  [![Small](img/The_Room/theroom_9.png){:height="245px"}](img/The_Room/theroom_9.png)
+  <p style="text-align: center;"><i>Final Scene View 2</i></p>
