@@ -3,14 +3,13 @@ title:  "The Crypt"
 subtitle: "Architecture Visualization"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/b.jpg"
+image: "img/The_Crypt/thecrypt_post_icon.png"
 date:   "17th September 2018"
 permalink: "The Crypt"
 ---
 
 <p style="font-size:100%;">
-Taking what I learnt from building the room, I went ahead and created a new scene. The Crypt.
-WIP
+Taking what I learnt from building the room, I went ahead and created a new scene, 'The Crypt'. The goals of this project was to keep to a consistent workflow and to build on the knowledge I have learnt so far. The assets used are from Epic Games 'Soul: Cave' market place asset pack.
 </p>
 
 <p style="text-align: center;"><i>
@@ -19,16 +18,46 @@ Defining the workspace
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Crypt/thecrypt_2.png" data-lightbox="the_crypt_set" data-title="Re-Defining the workspace"><img class="example-image" src="img/The_Crypt/thecrypt_2.png" alt="" height="370"/></a>
-Re-Defining the workspace
+<a class="example-image-link" href="img/The_Crypt/thecrypt_2.png" data-lightbox="the_crypt_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Crypt/thecrypt_2.png" alt="" height="370"/></a>
+Re-defining the workspace
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Crypt/thecrypt_3.png" data-lightbox="the_crypt_set" data-title="Initial scene construction"><img class="example-image" src="img/The_Crypt/thecrypt_3.png" alt="" height="370"/></a>
-Initial scene construction
+<a class="example-image-link" href="img/The_Crypt/thecrypt_3.png" data-lightbox="the_crypt_set" data-title="Initial base scene construction"><img class="example-image" src="img/The_Crypt/thecrypt_3.png" alt="" height="370"/></a>
+Initial base scene construction
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Crypt/thecrypt_4.png" data-lightbox="the_crypt_set" data-title="More scene construction"><img class="example-image" src="img/The_Crypt/thecrypt_4.png" alt="" height="370"/></a>
-More scene construction
+<a class="example-image-link" href="img/The_Crypt/thecrypt_4.png" data-lightbox="the_crypt_set" data-title="More base construction"><img class="example-image" src="img/The_Crypt/thecrypt_4.png" alt="" height="370"/></a>
+More base construction
+</i></p>
+
+<p style="text-align: center;"><i>
+<a class="example-image-link" href="img/The_Crypt/thecrypt_5.png" data-lightbox="the_crypt_set" data-title="Scene reconstruction with static meshes"><img class="example-image" src="img/The_Crypt/thecrypt_5.png" alt="" height="370"/></a>
+Scene reconstruction with static meshes
+</i></p>
+
+<p style="text-align: center;"><i>
+<a class="example-image-link" href="img/The_Crypt/thecrypt_6.png" data-lightbox="the_crypt_set" data-title="Final static mesh detailing"><img class="example-image" src="img/The_Crypt/thecrypt_6.png" alt="" height="370"/></a>
+Final static mesh detailing
+</i></p>
+
+<p style="text-align: center;"><i>
+<a class="example-image-link" href="img/The_Crypt/thecrypt_7.png" data-lightbox="the_crypt_set" data-title="Completed lighting pass"><img class="example-image" src="img/The_Crypt/thecrypt_7.png" alt="" height="370"/></a>
+Completed lighting pass
+</i></p>
+
+<p style="text-align: center;"><i>
+<a class="example-image-link" href="img/The_Crypt/thecrypt_8.png" data-lightbox="the_crypt_set" data-title="Post processing pass"><img class="example-image" src="img/The_Crypt/thecrypt_8.png" alt="" height="370"/></a>
+Post processing pass
+</i></p>
+
+<p style="text-align: center;"><i>
+<a class="example-image-link" href="img/The_Crypt/thecrypt_9.png" data-lightbox="the_crypt_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Crypt/thecrypt_9.png" alt="" height="370"/></a>
+Final scene view 1
+</i></p>
+
+<p style="text-align: center;"><i>
+<a class="example-image-link" href="img/The_Crypt/thecrypt_10.png" data-lightbox="the_crypt_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Crypt/thecrypt_10.png" alt="" height="370"/></a>
+Final scene view 2
 </i></p>

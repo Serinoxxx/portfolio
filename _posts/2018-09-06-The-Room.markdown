@@ -19,8 +19,8 @@ Defining the workspace
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_2.png" data-lightbox="the_room_set" data-title="Redefining the workspace"><img class="example-image" src="img/The_Room/theroom_2.png" alt="" height="245" /></a>
-Redefining the workspace
+<a class="example-image-link" href="img/The_Room/theroom_2.png" data-lightbox="the_room_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Room/theroom_2.png" alt="" height="245" /></a>
+Re-defining the workspace
 </i></p>
 
 <p style="text-align: center;"><i>
@@ -49,11 +49,11 @@ Post processing pass
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_8.png" data-lightbox="the_room_set" data-title="Final Scene View 1"><img class="example-image" src="img/The_Room/theroom_8.png" alt="" height="245"/></a>
-Final Scene View 1
+<a class="example-image-link" href="img/The_Room/theroom_8.png" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.png" alt="" height="245"/></a>
+Final scene view 1
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_9.png" data-lightbox="the_room_set" data-title="Final Scene View 2"><img class="example-image" src="img/The_Room/theroom_9.png" alt="" height="245"/></a>
-Final Scene View 2
+<a class="example-image-link" href="img/The_Room/theroom_9.png" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.png" alt="" height="245"/></a>
+Final scene view 2
 </i></p>
