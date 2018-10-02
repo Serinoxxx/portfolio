@@ -3,57 +3,56 @@ title:  "The Room"
 subtitle: "Architecture Visualization"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/The_Room/theroom_post_icon.png"
+image: "img/The_Room/theroom_post_icon.jpg"
 date:   "8th September 2018"
 permalink: "The Room"
 ---
 <p style="font-size:100%;">
 My first Unreal Engine 4 project, an architectural visualization of a living room space in a high rise apartment building.
-I created this as part of the of the <a href="https://www.udemy.com/share/10027MA0Iddl1WQHw=/" target="_blank" style="color:#de6551"><u>Udemy course</u></a> I am taking, instructed by Christopher
-Murphy.
+I created this project as part of a Udemy Course, instructed by Christopher Murphy. Scene assets are a mixture of course assets and Epic Games assets.
 </p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_1.png" data-lightbox="the_room_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Room/theroom_1.png" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_1.jpg" data-lightbox="the_room_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Room/theroom_1.jpg" alt="" height="245"/></a>
 Defining the workspace
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_2.png" data-lightbox="the_room_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Room/theroom_2.png" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_2.jpg" data-lightbox="the_room_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Room/theroom_2.jpg" alt="" height="245" /></a>
 Re-defining the workspace
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_3.png" data-lightbox="the_room_set" data-title="Fleshing out base static mesh details"><img class="example-image" src="img/The_Room/theroom_3.png" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_3.jpg" data-lightbox="the_room_set" data-title="Fleshing out base static mesh details"><img class="example-image" src="img/The_Room/theroom_3.jpg" alt="" height="245" /></a>
 Fleshing out base static mesh details
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_4.png" data-lightbox="the_room_set" data-title="Filling in more scene details"><img class="example-image" src="img/The_Room/theroom_4.png" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_4.jpg" data-lightbox="the_room_set" data-title="Filling in more scene details"><img class="example-image" src="img/The_Room/theroom_4.jpg" alt="" height="245" /></a>
 Filling in more scene details
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_5.png" data-lightbox="the_room_set" data-title="Final pre-lighting scene view"><img class="example-image" src="img/The_Room/theroom_5.png" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_5.jpg" data-lightbox="the_room_set" data-title="Final pre-lighting scene view"><img class="example-image" src="img/The_Room/theroom_5.jpg" alt="" height="245" /></a>
 Final pre-lighting scene view
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_6.png" data-lightbox="the_room_set" data-title="First detailed lighting pass"><img class="example-image" src="img/The_Room/theroom_6.png" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_6.jpg" data-lightbox="the_room_set" data-title="First detailed lighting pass"><img class="example-image" src="img/The_Room/theroom_6.jpg" alt="" height="245" /></a>
 First detailed lighting pass
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_7.png" data-lightbox="the_room_set" data-title="Post processing pass"><img class="example-image" src="img/The_Room/theroom_7.png" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_7.jpg" data-lightbox="the_room_set" data-title="Post processing pass"><img class="example-image" src="img/The_Room/theroom_7.jpg" alt="" height="245"/></a>
 Post processing pass
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_8.png" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.png" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
 Final scene view 1
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_9.png" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.png" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_9.jpg" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.jpg" alt="" height="245"/></a>
 Final scene view 2
 </i></p>
